@@ -1,3 +1,11 @@
+#vscode
+launch.json
+settings.json
+.idea/
+.vs/
+.vscode/
+cmake-build-debug/
+
 # Prerequisites
 *.d
 
